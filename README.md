@@ -22,4 +22,4 @@ Sei interessato a contribuire? Ottimo! Leggi il nostro file CONTRIBUTING.md per 
 Questo progetto è rilasciato sotto la Licenza MIT.
 
 ## Contatti
-Per domande, suggerimenti o collaborazioni, sentiti libero di contattare il maintainer del repository: [Il tuo contatto/email]
+astrocode@yonacosta.com
